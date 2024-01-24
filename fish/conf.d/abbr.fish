@@ -1,0 +1,5 @@
+abbr tn "tmux new -s (basename (pwd))"
+abbr yabstart "yabai --start-service"
+abbr yabstop "yabai --stop-service"
+abbr skstart "skhd --start-service"
+abbr skstop "skhd --stop-service"
